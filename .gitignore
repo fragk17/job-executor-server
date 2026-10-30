@@ -1,0 +1,14 @@
+# build outputs
+*.o
+*.out
+*.exe
+bin/
+build/
+*.log
+.vscode/
+v1-fifo-signals/jobCommander
+v1-fifo-signals/progDelay
+fifo_1
+fifo_2
+jobExecutorServer.txt
+*.output
